@@ -2,7 +2,7 @@
 ## A Bank detected some churn. The marketing team calculated that retention is cheaper than acquisition. The request is based on historical data to predict clients prone to churn.
 ## КЛАССИФИКАЦИЯ КЛИЕНТОВ БАНКА, СКЛОННЫХ К ОТТОКУ
 
-** Задача проекта:**
+**Задача проекта:**
 * построить модель с предельно большим значением F1-меры
 * довести метрику до 0.59
 * проверить F1-меру на тестовой выборке
